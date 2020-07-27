@@ -1,35 +1,19 @@
 ---
 layout: page
-title: About Science and Technology Blog
+title: Blog de tareas UwU
 ---
-## About
+## Acerca de...
 
-This is a simple template for creating a Science and Technology Blog.
+Este es un blog muy simple hecho para ir subiendo las tareas del curso intersemestral (2020-4)
+de Cálculo III en la [facultad de ciencias](http://www.fciencias.unam.mx/) UNAM.
 
-The template contain following features:
+### Origen
+- El blog está hecho a partir de una plantilla publicada en [github](https://github.com/) 
+y albergada en [github pages](https://pages.github.com/).
+- Puedes visitar el [repositorio original](https://github.com/pranjaldhole/science-blog-template)
+o seguir a su creador [pranjaldhole](https://github.com/pranjaldhole) en github.
 
-### Jekyll-based website
-- This code-base is meant to host on [github pages](https://pages.github.com/).
-- Github pages uses [Jekyll](https://jekyllrb.com/) that can convert your
-markdown pages into beautiful looking blog pages without needing to
-write cumbersome HTML code.
-- Once you set up the site, blogging becomes as fast as using any online service
-such as Wordpress, Blogger, etc.
+### Código abierto
+- Este proyecto de código abierto fue liberado publicamente en github bajo una licencia MIT, así que sientete libre
+de hacer un fork y crear tu propia pagina. c:
 
-### Free website publishing with Github-pages
-- Since Github public repositories are free, you do not need to pay a cent to
-anyone for publishing your blog.
-
-### Commenting with Disqus
-- The template has included Disqus comments. So, if enabled, your readers can
-comment on any of your posts.
-- This also makes sharing your writings on social platforms easy.
-- Disqus basic account is for free and avails you with most of its features.
-
-### Latex rendering
-- If you have a scientific mind and you do not shy away from equations, the
-website is MathJax enabled. You can simply type your math equations in
-Latex format.
-
-### Code
-- You can also demonstrate your code in `code blocks`.
