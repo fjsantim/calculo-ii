@@ -1,7 +1,7 @@
 # Site settings
-title: Science and Technology Blog
-description: "Blog site for scientific/technical pages."
-url: "https://fjsantim.github.io/science-blog-template"
+title: Blog para cálculo III
+description: "Este es un blog para ir añadiendo las tareas de Cálculo III"
+url: "https://fjsantim.github.io/blog"
 author:
   name: "Pranjal Dhole"
   email: "dhole.pranjal@gmail.com"
