@@ -1,14 +1,14 @@
 # Site settings
 title: Blog para cálculo III
 description: "Este es un blog para ir añadiendo las tareas de Cálculo III"
-url: "https://fjsantim.github.io/blog"
+url: "https://fjsantim.github.io/calculo-iii"
 author:
-  name: "Pranjal Dhole"
-  email: "dhole.pranjal@gmail.com"
+  name: "Francisco J. Santiago"
+  email: "fjsantim@gmail.com"
   url: "https://fjsantim.github.io"
 
 # Build settings
-baseurl: /science-blog-template/
+baseurl: /calculo-iii
 source: .
 destination: ./_site
 permalink: /:title
@@ -29,8 +29,8 @@ genero: "Cálculo diferencial" # Blog genre
 version: "1.0.1"    # Blog site version
 
 # Disqus comments
-comments: true      # used to enable disqus comments on site
-dsq_shortname: science-blog-template # disqus shortname
+#comments: true      # used to enable disqus comments on site
+#dsq_shortname: science-blog-template # disqus shortname
 
 # Options: Define which header/footer to use
 custom_header: false
