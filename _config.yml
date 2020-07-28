@@ -8,7 +8,7 @@ author:
   url: "https://fjsantim.github.io"
 
 # Build settings
-baseurl: /calculo-iii
+baseurl: /calculo-iii/
 source: .
 destination: ./_site
 permalink: /:title
